@@ -1,0 +1,4 @@
+# SSH configuration for connecting without typing a password
+Host 3.91.100.7
+  IdentityFile ~/.ssh/school
+  PasswordAuthentication no
